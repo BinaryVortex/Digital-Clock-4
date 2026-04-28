@@ -2,7 +2,7 @@
 
 A small, lightweight, and responsive digital clock built with plain HTML, CSS, and JavaScript. It displays your local time in the browser and updates every second — no frameworks or build tools required.
 
-![Digital Clock Screenshot](./Screenshot 2024-06-21 001919.png)
+![Digital Clock Screenshot](./Screenshot%202024-06-21%20001919.png)
 
 Table of contents
 
